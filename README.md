@@ -18,7 +18,24 @@ Acted as a primary liaison between development, QA, product management, and busi
 communication, stakeholder alignment, and swift issue resolution. 
 Championed continuous improvement by identifying process gaps, implementing scalable automation solutions, and 
 mentoring QA professionals on Agile methodologies and modern test frameworks. 
-
+Conducted comprehensive reviews of requirements, specifications, and technical documents using JIRA and Confluence, 
+executed web application and API testing based on structured test plans. 
+Estimated, prioritized, and coordinated testing activities in collaboration with Agile teams and Scrum Masters to ensure 
+high-quality and on-time software releases. 
+Designed, developed, and executed automation scripts using Cucumber Studio for web applications and POSTMAN for API 
+testing, managed defect tracking, regression cycles, and QA metrics reporting. 
+Developed and documented test strategies across multiple projects, ensuring comprehensive coverage and execution 
+using tools such as Rally, JIRA, Confluence, Postman, and Trello. 
+Led Agile testing activities including sprint planning, effort estimation, test case design, and execution, aligning with SDLC 
+and STLC frameworks to maintain high quality throughout the delivery lifecycle. 
+Facilitated requirement gathering and traceability, communicated testing progress and risks to stakeholders, and oversaw 
+automation, API testing, and continuous QA-development alignment within each sprint 
+Designed and implemented robust, end-to-end automation frameworks to support integration, smoke, regression, and 
+User Acceptance Testing (UAT) across diverse use cases and real-world scenarios. 
+Contributed to enterprise-wide quality dashboards by generating actionable QA metrics, leveraging SQL queries and data 
+analysis to monitor test coverage, defect trends, and release readiness. 
+Championed Agile testing practices by continuously adopting industry trends, emerging tools, and best practices to refine 
+testing strategies and deliver high-quality insurance applications in fast-paced Agile environments.
 
 CORE COMPETENCIES 
 --------------------------------------------------------------------------------------------------------------------------

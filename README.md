@@ -41,8 +41,25 @@ Continuous Improvemen
 EXPERTISE [TOOLS & TECHNOLOGIES] 
 
 Testing Tools- Selenium WebDriver, QTP-UFT, POSTMAN, JMeter, SOAPUI, Browser Stack, Xenu’s Link      
-sleuth, Google Analytics, GTmetrix, Broken Link Check, Dead Link Checker, W3C Validator          
-Technologies/Languages -  Core Java, C#, SharePoint, VBScript, Power BI, Python, Azure, AWS                      
+sleuth, Google Analytics, GTmetrix, Broken Link Check, Dead Link Checker, W3C Validator 
+
+Technologies/Languages -  Core Java, C#, SharePoint, VBScript, Power BI, Python, Azure, AWS   
+
+Automation Framework -POM Framework, Data Driven, Library Driven Framework, TestNG
+
+Operating System - Windows, Mac, Linux 
+
+RDBMS - SQL, MySQL, PostgreSQL 
+
+Formatters -TML, XML, JSON 
+
+Network Analyzer -FireBug, FirePath, YSlow, Fiddler 
+
+Utility tools -JIRA, Confluence, Xray, Trello, Rally, HP-QC, Mantis, Stash, Zephyr, Jenkins, GIT, 
+Sonar, Visio, Bugzilla, Kanban, Gantt Charts, TestRail, Mantis, Splunk 
+
+
+
 
 
 PROFESSIONAL EXPERIENCES 

@@ -59,22 +59,6 @@ Utility tools -JIRA, Confluence, Xray, Trello, Rally, HP-QC, Mantis, Stash, Zeph
 Sonar, Visio, Bugzilla, Kanban, Gantt Charts, TestRail, Mantis, Splunk 
 
 
-
-
-
-PROFESSIONAL EXPERIENCES 
-Selenium WebDriver, QTP-UFT, POSTMAN, JMeter, SOAPUI, Browser Stack, Xenu’s Link      
-sleuth, Google Analytics, GTmetrix, Broken Link Check, Dead Link Checker, W3C Validator     
-Core Java, C#, SharePoint, VBScript, Power BI, Python, Azure, AWS  
-POM Framework, Data Driven, Library Driven Framework, TestNG,  
-Windows, Mac, Linux 
-SQL, MySQL, PostgreSQL 
-HTML, XML, JSON 
-FireBug, FirePath, YSlow, Fiddler 
-JIRA, Confluence, Xray, Trello, Rally, HP-QC, Mantis, Stash, Zephyr, Jenkins, GIT, 
-Sonar, Visio, Bugzilla, Kanban, Gantt Charts, TestRail, Mantis, Splunk 
-
-
 PROFESSIONAL EXPERIENCES 
 
 Developed and implemented enterprise-grade QA principles to ensure delivery excellence while overseeing complex 

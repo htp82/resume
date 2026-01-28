@@ -26,6 +26,7 @@ Client Communication & Reporting |
 Risk Management |
 
 EXPERTISE [TOOLS & TECHNOLOGIES] 
+
 Requirement and Gap Analysis |
 Data Analysis & Validation |
 Agile Methodology |
@@ -35,7 +36,7 @@ Web and Mobile Testing |
 Team Management |
 Conflict Resolution |
 Sprint Coordination |
-Continuous Improvemen |
+Continuous Improvemen 
 
 EXPERTISE [TOOLS & TECHNOLOGIES] 
 

@@ -38,8 +38,9 @@ Continuous Improvemen
 
 EXPERTISE [TOOLS & TECHNOLOGIES] 
 
-Testing Tools-          
-Technologies/Languages -             
+Testing Tools- Selenium WebDriver, QTP-UFT, POSTMAN, JMeter, SOAPUI, Browser Stack, Xenu’s Link      
+sleuth, Google Analytics, GTmetrix, Broken Link Check, Dead Link Checker, W3C Validator          
+Technologies/Languages -  Core Java, C#, SharePoint, VBScript, Power BI, Python, Azure, AWS                      
 Automation Framework -                    
 Operating System - 
 RDBMS - 

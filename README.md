@@ -70,6 +70,15 @@ CI/CD pipelines aligned with Scrum methodologies.
  Defined and rolled out comprehensive test strategies, aligned QA vision with stakeholders, and championed continuous 
 improvement by adopting industry’s best practices and modern automation tools. 
 
+HIGHEST EDUCATION 
+
+2022-2023 EPBA   Executive Program in Business Analytics
+2005-2008 M.C.A. Master of Computer Application 
+2003-2005 M.Sc.  Master of Science [Electronics-Physics] 
+1999-2002 B.Sc.  Bachelor of Science [Electronics] 
+
+
+
 CERTIFICATION & ACHIEVEMENTS 
 
 Advanced -Certified Scrum Master from Scrum Alliance, October 2024 (A-CSM) 

@@ -79,3 +79,16 @@ PRINCE2 Agile Foundation Certificate in Agile Project Management, July 2019 [Cer
 PRINCE2 Agile Practitioner Certificate in Agile Project Management, Aug 2019 [Certificate No: GR649007269HP] 
 ITIL Foundation Certification in IT Service Management, Dec 2017 [Certificate No: GR750360939HP] 
 SPOT Award for Automation Project, December 2013 (Syntel, Client: Moody’s) 
+
+
+
+PERSONAL SKILLS 
+
+Possesses a creative mindset and strong attention to detail, contributing to innovative problem-solving and defect 
+identification. 
+ Highly proficient in organizing tasks, setting priorities, and communicating test results and risks effectively across 
+stakeholders. 
+ I am skilled in risk identification, quality management, and fostering collaboration within Agile teams to ensure successful 
+project delivery. 
+ Demonstrated leadership as a QA team lead by effectively interpreting project requirements, recommending scalable 
+solutions, and engaging in continuous learning and research to drive project success.

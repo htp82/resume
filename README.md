@@ -83,12 +83,18 @@ HIGHEST EDUCATION
 
 CERTIFICATION & ACHIEVEMENTS 
 
-Advanced -Certified Scrum Master from Scrum Alliance, October 2024 (A-CSM) 
-Certified Scrum Master from Scrum Alliance, September 2022 (CSM) 
-SPOT Award for Excellent Teamwork for Sprint Release on 17th April 2020 (Atos | Syntel, Client: Amex) 
-PRINCE2 Agile Foundation Certificate in Agile Project Management, July 2019 [Certificate No: GR659004756HP] 
-PRINCE2 Agile Practitioner Certificate in Agile Project Management, Aug 2019 [Certificate No: GR649007269HP] 
-ITIL Foundation Certification in IT Service Management, Dec 2017 [Certificate No: GR750360939HP] 
+Advanced -Certified Scrum Master from Scrum Alliance, October 2024 (A-CSM)
+
+Certified Scrum Master from Scrum Alliance, September 2022 (CSM)
+
+SPOT Award for Excellent Teamwork for Sprint Release on 17th April 2020 (Atos | Syntel, Client: Amex)
+
+PRINCE2 Agile Foundation Certificate in Agile Project Management, July 2019 [Certificate No: GR659004756HP]
+
+PRINCE2 Agile Practitioner Certificate in Agile Project Management, Aug 2019 [Certificate No: GR649007269HP]
+
+ITIL Foundation Certification in IT Service Management, Dec 2017 [Certificate No: GR750360939HP]
+
 SPOT Award for Automation Project, December 2013 (Syntel, Client: Moody’s) 
 
 

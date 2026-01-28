@@ -59,6 +59,7 @@ Utility tools -JIRA, Confluence, Xray, Trello, Rally, HP-QC, Mantis, Stash, Zeph
 Sonar, Visio, Bugzilla, Kanban, Gantt Charts, TestRail, Mantis, Splunk 
 
 
+
 PROFESSIONAL EXPERIENCES 
 
 Developed and implemented enterprise-grade QA principles to ensure delivery excellence while overseeing complex 
@@ -69,6 +70,8 @@ Agile delivery expertise.
 CI/CD pipelines aligned with Scrum methodologies. 
  Defined and rolled out comprehensive test strategies, aligned QA vision with stakeholders, and championed continuous 
 improvement by adopting industry’s best practices and modern automation tools. 
+
+
 
 HIGHEST EDUCATION 
 
@@ -99,13 +102,17 @@ SPOT Award for Automation Project, December 2013 (Syntel, Client: Moody’s)
 
 
 
+
 PERSONAL SKILLS 
 
 Possesses a creative mindset and strong attention to detail, contributing to innovative problem-solving and defect 
-identification. 
- Highly proficient in organizing tasks, setting priorities, and communicating test results and risks effectively across 
-stakeholders. 
- I am skilled in risk identification, quality management, and fostering collaboration within Agile teams to ensure successful 
-project delivery. 
- Demonstrated leadership as a QA team lead by effectively interpreting project requirements, recommending scalable 
+identification.
+
+Highly proficient in organizing tasks, setting priorities, and communicating test results and risks effectively across 
+stakeholders.
+
+I am skilled in risk identification, quality management, and fostering collaboration within Agile teams to ensure successful 
+project delivery.
+
+Demonstrated leadership as a QA team lead by effectively interpreting project requirements, recommending scalable 
 solutions, and engaging in continuous learning and research to drive project success.

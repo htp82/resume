@@ -6,6 +6,7 @@ Experienced IT(QA) professional seeking a senior-level role in organization to l
 experience and technical expertise, contributing to both company advancement and personal development. 
 
 PROFESSIONAL SUMMARY 
+--------------------------------------------------------------------------------------------------------------------------
 
 Facilitated key Agile ceremonies including Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives to ensure 
 efficient project execution and team alignment.  
@@ -20,6 +21,7 @@ mentoring QA professionals on Agile methodologies and modern test frameworks.
 
 
 CORE COMPETENCIES 
+--------------------------------------------------------------------------------------------------------------------------
 
 Software Testing Life Cycle |
 Manual & Automation Testing |
@@ -28,6 +30,7 @@ Client Communication & Reporting |
 Risk Management |
 
 EXPERTISE [TOOLS & TECHNOLOGIES] 
+--------------------------------------------------------------------------------------------------------------------------
 
 Requirement and Gap Analysis |
 Data Analysis & Validation |
@@ -40,7 +43,8 @@ Conflict Resolution |
 Sprint Coordination |
 Continuous Improvemen 
 
-EXPERTISE [TOOLS & TECHNOLOGIES] 
+EXPERTISE [TOOLS & TECHNOLOGIES]
+--------------------------------------------------------------------------------------------------------------------------
 
 Testing Tools- Selenium WebDriver, QTP-UFT, POSTMAN, JMeter, SOAPUI, Browser Stack, Xenu’s Link      
 sleuth, Google Analytics, GTmetrix, Broken Link Check, Dead Link Checker, W3C Validator 
@@ -62,7 +66,8 @@ Sonar, Visio, Bugzilla, Kanban, Gantt Charts, TestRail, Mantis, Splunk
 
 
 
-PROFESSIONAL EXPERIENCES 
+PROFESSIONAL EXPERIENCES
+--------------------------------------------------------------------------------------------------------------------------
 
 Developed and implemented enterprise-grade QA principles to ensure delivery excellence while overseeing complex 
 testing processes across geographically distributed teams. 
@@ -76,6 +81,7 @@ improvement by adopting industry’s best practices and modern automation tools.
 
 
 HIGHEST EDUCATION 
+--------------------------------------------------------------------------------------------------------------------------
 
 2022-2023       EPBA         Executive Program in Business Analytics            Adani University
 
@@ -87,6 +93,7 @@ HIGHEST EDUCATION
 
 
 CERTIFICATION & ACHIEVEMENTS 
+--------------------------------------------------------------------------------------------------------------------------
 
 Advanced -Certified Scrum Master from Scrum Alliance, October 2024 (A-CSM)
 
@@ -105,7 +112,8 @@ SPOT Award for Automation Project, December 2013 (Syntel, Client: Moody’s)
 
 
 
-PERSONAL SKILLS 
+PERSONAL SKILLS
+--------------------------------------------------------------------------------------------------------------------------
 
 Possesses a creative mindset and strong attention to detail, contributing to innovative problem-solving and defect 
 identification.

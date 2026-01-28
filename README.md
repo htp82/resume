@@ -100,13 +100,13 @@ improvement by adopting industry’s best practices and modern automation tools.
 HIGHEST EDUCATION 
 --------------------------------------------------------------------------------------------------------------------------
 
-2022-2023       EPBA         Executive Program in Business Analytics            Adani University
+2022-2023       EPBA         Executive Program in Business Analytics          [Adani University]
 
-2005-2008       M.C.A.       Master of Computer Application                   Nirma University
+2005-2008       M.C.A.       Master of Computer Application                   [Nirma University]
 
-2003-2005       M.Sc.        Master of Science [Electronics-Physics]          Saurashtra University
+2003-2005       M.Sc.        Master of Science [Electronics-Physics]          [Saurashtra University]
 
-1999-2002       B.Sc.        Bachelor of Science [Electronics]                Gujarat Univesrity
+1999-2002       B.Sc.        Bachelor of Science [Electronics]                [Gujarat Univesrity]
 
 
 CERTIFICATION & ACHIEVEMENTS 

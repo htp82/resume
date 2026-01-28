@@ -74,13 +74,11 @@ HIGHEST EDUCATION
 
 2022-2023 EPBA   Executive Program in Business Analytics
 
-
 2005-2008 M.C.A. Master of Computer Application 
 
-
 2003-2005 M.Sc.  Master of Science [Electronics-Physics] 
-1999-2002 B.Sc.  Bachelor of Science [Electronics] 
 
+1999-2002 B.Sc.  Bachelor of Science [Electronics] 
 
 
 CERTIFICATION & ACHIEVEMENTS 

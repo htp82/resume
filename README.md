@@ -19,22 +19,23 @@ mentoring QA professionals on Agile methodologies and modern test frameworks.
 
 CORE COMPETENCIES 
 
-Software Testing Life Cycle 
-Manual & Automation Testing 
-Scrum techniques and artifacts 
-Client Communication & Reporting 
-Risk Management 
+Software Testing Life Cycle |
+Manual & Automation Testing |
+Scrum techniques and artifacts |
+Client Communication & Reporting |
+Risk Management |
+
 EXPERTISE [TOOLS & TECHNOLOGIES] 
-Requirement and Gap Analysis 
-Data Analysis & Validation 
-Agile Methodology 
-Timeline Management 
-Stakeholder Management 
-Web and Mobile Testing 
-Team Management 
-Conflict Resolution 
-Sprint Coordination 
-Continuous Improvemen
+Requirement and Gap Analysis |
+Data Analysis & Validation |
+Agile Methodology |
+Timeline Management |
+Stakeholder Management |
+Web and Mobile Testing |
+Team Management |
+Conflict Resolution |
+Sprint Coordination |
+Continuous Improvemen |
 
 EXPERTISE [TOOLS & TECHNOLOGIES] 
 
